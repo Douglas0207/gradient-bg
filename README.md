@@ -30,3 +30,5 @@ Designed as a clean, modern intro section for future portfolio projects.
 ![Screenshot 2025-10-20 at 8 33 42 PM](https://github.com/user-attachments/assets/804e1a0c-2a8a-4292-b019-05234d9d360b)
 
 ---
+
+![Screenshot 2025-10-20 at 8 33 58 PM](https://github.com/user-attachments/assets/1d442f1a-1f64-4889-9a21-bdc9e8b50898)
