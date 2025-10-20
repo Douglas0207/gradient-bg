@@ -23,3 +23,4 @@ Designed as a clean, modern intro section for future portfolio projects.
 
 ## Preview
 
+![Screenshot 2025-10-20 at 8 29 12 PM](https://github.com/user-attachments/assets/5b5d301c-05d5-4210-8421-78f7ef25af48)
